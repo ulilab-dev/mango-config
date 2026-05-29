@@ -1,0 +1,2 @@
+# mangowm-config
+meh
