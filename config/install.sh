@@ -3,7 +3,7 @@
 chmod +x waybar/toggle_waybar.sh &&
 chmod +x hypr/wallpaper-pick.sh &&
 
-cp -r dunst/ fastfetch/ fish/ mango/ kitty/ rofi/ waybar/ wlogout/ ~/.config && 
+cp -r dunst/ fastfetch/ fish/ kitty/ mango/ rofi/ waybar/ wlogout/ ~/.config && 
 cp -r Simp1e/ ~/.local/share/icons &
 
 if [ $? -eq 0 ]; then
