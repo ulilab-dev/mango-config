@@ -10,6 +10,12 @@ rofi swaybg hyprlock waybar wlogout fish kitty polkit-gnome starship hyprshot du
 celluloid
 ```
 
+### Font 
+
+```
+JetBrainsMono Nerd Font
+```
+
 ### set cursor
 edit `/usr/share/icons/default/index.theme`
 ```
