@@ -1,8 +1,5 @@
 #!/bin/sh
 
-chmod +x waybar/toggle_waybar.sh &&
-chmod +x mango/wallpaper-pick.sh &&
-
 cp -r dunst/ fastfetch/ fish/ hypr/ kitty/ mango/ rofi/ waybar/ wlogout/ ~/.config && \
 cp -r Simp1e/ ~/.local/share/icons
 
