@@ -3,7 +3,7 @@ meh
 
 ### must install
 ```
-rofi swaybg hyprlock waybar wlogout fish kitty polkit-gnome starship hyprshot dunst wl-clipboard wl-clip-persist cliphist 
+rofi swaybg hyprlock waybar wlogout fish kitty polkit-gnome starship hyprshot dunst power-profiles-daemon wl-clipboard wl-clip-persist cliphist 
 
 #MediaPlayer
 
