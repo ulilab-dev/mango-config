@@ -1,5 +1,4 @@
 # mangowm-config
-meh
 
 ### must install
 ```
