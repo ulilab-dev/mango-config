@@ -9,3 +9,11 @@ rofi swaybg hyprlock waybar wlogout fish kitty polkit-gnome starship hyprshot du
 
 celluloid
 ```
+
+### set cursor
+edit `/usr/share/icons/default/index.theme`
+```
+[Icon Theme]
+Inherits=Simp1e
+
+```
