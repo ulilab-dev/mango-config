@@ -39,5 +39,4 @@ edit `/usr/share/icons/default/index.theme`
 ```
 [Icon Theme]
 Inherits=Simp1e
-
 ```
